@@ -36,3 +36,9 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+#chapter-5 blockquote:last-of-type p{
+	font-style: italic;
+	text-indent: 0;
+	text-align: center;
+}
