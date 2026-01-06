@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/wilkie-collins/the-haunted-hotel</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-06T20:20:27Z</dc:date>
+		<meta property="dcterms:modified">2026-01-06T20:20:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,15 +48,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The death in Venice of a wealthy man under very mysterious circumstances leads to suspicions of a supernatural cause.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;One of &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins’&lt;/a&gt; shorter novels, &lt;i&gt;The Haunted Hotel&lt;/i&gt; was was published in 1878 as a serial in six monthly parts in &lt;i&gt;Belgravia&lt;/i&gt; magazine. Most of the dramatic and sensational parts of the novel are set in Venice, and feature more of an emphasis on the supernatural than is usual in Collins’ work.&lt;/p&gt;
-			&lt;p&gt;The story itself deals with the death of the wealthy Baron Montbarry in a hotel in Venice. This follows his inexplicable breaking-off of a previous engagement to a pretty young woman and his subsequent marriage to a mysterious Countess, an unhealthy-looking widow. Montbarry’s younger brother, and the young woman he had spurned, set out to discover more about his death.&lt;/p&gt;
-			&lt;p&gt;The novel is considered by at least one biographer to be something of a pot-boiler, written because Collins was desperate for money. So desperate was he that he subsequently sold the translation and international rights to the novel, getting himself into legal trouble with the original publisher for doing so without their permission.&lt;/p&gt;
+			&lt;p&gt;One of &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins’&lt;/a&gt; shorter novels, &lt;i&gt;The Haunted Hotel&lt;/i&gt; was published in 1878 as a monthly serial in six parts in &lt;i&gt;Belgravia&lt;/i&gt; magazine. Most of the dramatic and sensational parts of the novel are set in Venice, and feature more of an emphasis on the supernatural than is usual in Collins’ work.&lt;/p&gt;
+			&lt;p&gt;The story deals with the death of the wealthy Baron Montbarry in a hotel in Venice. This follows his inexplicable breaking-off of a previous engagement to a pretty young woman and his subsequent marriage to a mysterious Countess, an unhealthy-looking widow. Montbarry’s younger brother, and the young woman he had spurned, set out to discover more about his death.&lt;/p&gt;
+			&lt;p&gt;The novel is considered by at least one biographer to be something of a potboiler, written because Collins was desperate for money. So desperate was he that he subsequently sold the translation and international rights to the novel, getting himself into legal trouble with the original publisher for doing so without their permission.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/170</dc:source>
 		<dc:source>https://archive.org/details/hauntedhotelmyst00colluoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63214</meta>
+		<meta property="se:reading-ease.flesch">73.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Haunted_Hotel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_the-haunted-hotel</meta>
 		<dc:creator id="author">Wilkie Collins</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
