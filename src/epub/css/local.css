@@ -38,13 +38,10 @@ section[epub|type~="dedication"] > *{
 #chapter-5 blockquote:last-of-type p{
 	font-style: italic;
 	text-align: center;
-	text-indent: 0;
 }
 
 #chapter-8 blockquote header{
 	font-style: italic;
-	text-align: center;
-	text-indent: 0;
 }
 
 /* Letters */
