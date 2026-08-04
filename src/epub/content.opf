@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008105794</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The death in Venice of a wealthy man under very mysterious circumstances leads to suspicions of a supernatural cause.</dc:abstract>
+		<meta property="schema:abstract">The death in Venice of a wealthy man under very mysterious circumstances leads to suspicions of a supernatural cause.</meta>
 		<dc:description>
 			&lt;p&gt;One of &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins’&lt;/a&gt; shorter novels, &lt;i&gt;The Haunted Hotel&lt;/i&gt; was published in 1878 as a monthly serial in six parts in &lt;i&gt;Belgravia&lt;/i&gt; magazine. Most of the dramatic and sensational parts of the novel are set in Venice, and feature more of an emphasis on the supernatural than is usual in Collins’ work.&lt;/p&gt;
 			&lt;p&gt;The story deals with the death of the wealthy Baron Montbarry in a hotel in Venice. This follows his inexplicable breaking-off of a previous engagement to a pretty young woman and his subsequent marriage to a mysterious Countess, an unhealthy-looking widow. Montbarry’s younger brother, and the young woman he had spurned, set out to discover more about his death.&lt;/p&gt;
