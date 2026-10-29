@@ -71,6 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Claude Monet</dc:contributor>
 		<meta property="file-as" refines="#artist">Monet, Claude</meta>
+		<meta property="schema:alternateName" refines="#artist">Oscar-Claude Monet</meta>
 		<link href="https://en.wikipedia.org/wiki/Claude_Monet" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79055527.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
